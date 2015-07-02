@@ -1,0 +1,21 @@
+C:\Users\JANE\Source\Repos\1032_Project-8\Frog\Frog\bin\Debug\Frog.exe.config
+C:\Users\JANE\Source\Repos\1032_Project-8\Frog\Frog\obj\Debug\Frog.csprojResolveAssemblyReference.cache
+C:\Users\JANE\Source\Repos\1032_Project-8\Frog\Frog\obj\Debug\MainWindow.baml
+C:\Users\JANE\Source\Repos\1032_Project-8\Frog\Frog\obj\Debug\MainWindow.g.cs
+C:\Users\JANE\Source\Repos\1032_Project-8\Frog\Frog\obj\Debug\App.g.cs
+C:\Users\JANE\Source\Repos\1032_Project-8\Frog\Frog\obj\Debug\Frog_MarkupCompile.cache
+C:\Users\JANE\Source\Repos\1032_Project-8\Frog\Frog\obj\Debug\Frog.g.resources
+C:\Users\JANE\Source\Repos\1032_Project-8\Frog\Frog\obj\Debug\Frog.Properties.Resources.resources
+C:\Users\JANE\Source\Repos\1032_Project-8\Frog\Frog\obj\Debug\Frog.csproj.GenerateResource.Cache
+C:\Users\JANE\Source\Repos\1032_Project-8\Frog\Frog\obj\Debug\Frog.AboutBox1.resources
+C:\Users\JANE\Source\Repos\1032_Project-8\Frog\Frog\bin\Debug\Frog.exe
+C:\Users\JANE\Source\Repos\1032_Project-8\Frog\Frog\bin\Debug\Frog.pdb
+C:\Users\JANE\Source\Repos\1032_Project-8\Frog\Frog\obj\Debug\Frog.exe
+C:\Users\JANE\Source\Repos\1032_Project-8\Frog\Frog\obj\Debug\Frog.pdb
+C:\Users\JANE\Source\Repos\1032_Project-8\Frog\Frog\obj\Debug\Frog_Content.g.cs
+C:\Users\user\Desktop\1032_Project-8\Frog\Frog\bin\Debug\Frog.exe.config
+C:\Users\user\Desktop\1032_Project-8\Frog\Frog\obj\Debug\Frog.exe
+C:\Users\user\Desktop\1032_Project-8\Frog\Frog\obj\Debug\Frog.pdb
+D:\103(下) 視窗程式設計\1032_Project-8\Frog\Frog\bin\Debug\Frog.exe.config
+D:\103(下) 視窗程式設計\1032_Project-8\Frog\Frog\obj\Debug\Frog.exe
+D:\103(下) 視窗程式設計\1032_Project-8\Frog\Frog\obj\Debug\Frog.pdb
